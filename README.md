@@ -12,7 +12,7 @@ Akbank Java Spring Bootcamp Dahilindeki Tüm Projeler
       <td><a href="https://github.com/Akbank-Patika-dev-Java-Spring-Bootcamp/homework-1-oguzhnkurt" style="color:#5489ef;">Akbank Organizasyon Ödev 1</a></td>
     </tr>
     <tr>
-      <td><a href="" style="color:#5489ef;">Cohorts Ödev 2</a></td>
+      <td><a href="https://github.com/oguzhnkurt/BootcampHomeworks/tree/main/PatikaHomework2" style="color:#5489ef;">Cohorts Ödev 2</a></td>
       <td><a href="https://github.com/Akbank-Patika-dev-Java-Spring-Bootcamp/homework-2-oguzhnkurt" style="color:#5489ef;">Akbank Organizasyon Ödev 2</a></td>
     </tr>
   </table>
