@@ -1,25 +1,4 @@
-# Akbank-PatikaBootcamp
-`
-Akbank Java Spring Bootcamp Dahilindeki Tüm Projeler
-`
-  <table>
-    <tr>
-      <th>Cohorts Ödevler</th>
-      <th>Akbank Organizasyon Ödevler</th>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/oguzhnkurt/PatikaHomework" style="color:#5489ef;">Cohorts Ödev 1</a></td>
-      <td><a href="https://github.com/Akbank-Patika-dev-Java-Spring-Bootcamp/homework-1-oguzhnkurt" style="color:#5489ef;">Akbank Organizasyon Ödev 1</a></td>
-    </tr>
-    <tr>
-      <td><a href="" style="color:#5489ef;">Cohorts Ödev 2</a></td>
-      <td><a href="https://github.com/Akbank-Patika-dev-Java-Spring-Bootcamp/homework-2-oguzhnkurt" style="color:#5489ef;">Akbank Organizasyon Ödev 2</a></td>
-    </tr>
-  </table>
-  
-# Proje Çıktıları
-
-# PatikaCohortsHomework1📂
+# PatikaHomework
 ✭ Create 3 house types as House, Villa, Resort. Create at least 3
 
 ✭ House, Villa and Summer objects in a class and write the methods that return these examples to you.
@@ -48,23 +27,6 @@ Akbank Java Spring Bootcamp Dahilindeki Tüm Projeler
    ![image](https://github.com/oguzhnkurt/AkbankBootcamp/assets/73943292/f3426217-377f-463f-bf34-693d900f9505)
    
    ![image](https://github.com/oguzhnkurt/AkbankBootcamp/assets/73943292/49349a70-9bdf-48a6-88ea-c9482e00c42f)
-   
- # Spring Bootcamp Homework1 📂
-
-  We were asked to create a simple REST API for a country management system. The API should be able to create, read, update and delete countries. Long story short, CRUD operations. Country model should have the following fields:
-
-  ➔ id
-
-  ➔ name
-
-  ➔ president
-
-  While creating dto classes we should use mapstruct library. We should also use lombok library to avoid boilerplate code.
-
-  We were free to choose any database we want. I used H2 database. I also used Swagger to document the API.
-
-  ![image](https://github.com/oguzhnkurt/AkbankBootcamp/assets/73943292/8fe5df21-4a08-42a4-9a0f-d86fa588781c)
-
 
 
 
