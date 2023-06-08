@@ -1,23 +1,23 @@
 # Akbank-PatikaBootcamp
 `
-Akbank Java Spring Bootcamp Dahilindeki Tüm Projeler
+Akbank Java Spring Bootcamp All Projects
 `
   <table>
     <tr>
-      <th>Cohorts Ödevler</th>
-      <th>Akbank Organizasyon Ödevler</th>
+      <th>Cohorts Homeworks</th>
+      <th>Akbank Organization Assignments</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/oguzhnkurt/PatikaHomework" style="color:#5489ef;">Cohorts Ödev 1</a></td>
-      <td><a href="https://github.com/Akbank-Patika-dev-Java-Spring-Bootcamp/homework-1-oguzhnkurt" style="color:#5489ef;">Akbank Organizasyon Ödev 1</a></td>
+      <td><a href="https://github.com/oguzhnkurt/PatikaHomework" style="color:#5489ef;">Cohorts Homeworks 1</a></td>
+      <td><a href="https://github.com/Akbank-Patika-dev-Java-Spring-Bootcamp/homework-1-oguzhnkurt" style="color:#5489ef;">Akbank Organization Assignements 1</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/oguzhnkurt/BootcampHomeworks/tree/main/PatikaHomework2" style="color:#5489ef;">Cohorts Ödev 2</a></td>
-      <td><a href="https://github.com/Akbank-Patika-dev-Java-Spring-Bootcamp/homework-2-oguzhnkurt" style="color:#5489ef;">Akbank Organizasyon Ödev 2</a></td>
+      <td><a href="https://github.com/oguzhnkurt/BootcampHomeworks/tree/main/PatikaHomework2" style="color:#5489ef;">Cohorts Homework 2</a></td>
+      <td><a href="https://github.com/Akbank-Patika-dev-Java-Spring-Bootcamp/homework-2-oguzhnkurt" style="color:#5489ef;">Akbank Organization Assignements 2</a></td>
     </tr>
   </table>
   
-# Proje Çıktıları
+# Proje Outputs
 
 # PatikaCohortsHomework1📂
 ✭ Create 3 house types as House, Villa, Resort. Create at least 3
@@ -43,11 +43,16 @@ Akbank Java Spring Bootcamp Dahilindeki Tüm Projeler
       ➜ A method to return the average square meters of all types of houses filter
    
       ➜ A method to return all types of houses according to the number of rooms and halls method
-   
-   ![image](https://user-images.githubusercontent.com/73943292/244117313-2b30a490-a191-4ff5-9fc9-57023253eca6.png) ![image](https://github.com/oguzhnkurt/AkbankBootcamp/assets/73943292/f793f327-2a57-4fa2-af64-ff2f78573bb7) ![image](https://github.com/oguzhnkurt/AkbankBootcamp/assets/73943292/2966324d-a626-49bd-b3aa-9bebacb263c6)
-   ![image](https://github.com/oguzhnkurt/AkbankBootcamp/assets/73943292/f3426217-377f-463f-bf34-693d900f9505)
-   
-   ![image](https://github.com/oguzhnkurt/AkbankBootcamp/assets/73943292/49349a70-9bdf-48a6-88ea-c9482e00c42f)
+    
+   ![image](https://github.com/oguzhnkurt/BootcampHomeworks/assets/73943292/ad5b2447-824e-49c0-9acb-9cb0c497a6c7) ![image](https://github.com/oguzhnkurt/BootcampHomeworks/assets/73943292/86ec424e-3f7c-43eb-9f2a-f99acfa67c53)
+   ![image](https://github.com/oguzhnkurt/BootcampHomeworks/assets/73943292/f5db0132-6a52-44be-8891-d5067a3d2bec) ![image](https://github.com/oguzhnkurt/BootcampHomeworks/assets/73943292/25fc8d5b-6a81-4b4a-820e-ded589ae17ea)
+   ![image](https://github.com/oguzhnkurt/BootcampHomeworks/assets/73943292/56224919-beca-4299-9ece-9948e26a4d5a)
+
+
+
+
+
+
    
  # Spring Bootcamp Homework1 📂
 
@@ -62,8 +67,104 @@ Akbank Java Spring Bootcamp Dahilindeki Tüm Projeler
   While creating dto classes we should use mapstruct library. We should also use lombok library to avoid boilerplate code.
 
   We were free to choose any database we want. I used H2 database. I also used Swagger to document the API.
+  
+  ## Technologies Used and IDE
+  ➔Maven
+  
+  ➔Spring Boot
+  
+  ➔Spring Web
+  
+  ➔PostgreSQL
+  
+  ➔DevTools
+  
+  ➔JPA
+  
+  ➔MapStruct
+  
+  ➔Swagger
+  
+  ![image](https://github.com/oguzhnkurt/BootcampHomeworks/assets/73943292/042599c0-317c-41a5-b47c-cd224dca5717)
+  
+  # PatikaCohortsHomework2📂
+  
+  ## Requirements
 
-  ![image](https://github.com/oguzhnkurt/AkbankBootcamp/assets/73943292/8fe5df21-4a08-42a4-9a0f-d86fa588781c)
+➔The concepts of final, static, overload, override, constructor, inheritance, polymorphism, encapsulation, List, Set, Map should be used.
+
+➔You can add to the system.
+
+➔It is enough to work on the main method.
+
+➔Try to write in accordance with SOLID principles.
+
+ ## Homework Steps
+
+➔Listing operations should be done using stream.
+
+➔Create a Maven project.
+
+➔Run the maven commands and add the output
+
+➔List all customers
+
+➔Able to create new customers
+
+➔List customers with the letter 'C' in them
+
+➔List invoices over 1500TL in the system
+
+➔Calculate the average of invoices over 1500TL in the system
+
+
+  
+  # Spring Bootcamp Homework2 📂
+  
+  ## Requirements
+  
+  For the backend service of an online shopping site;
+- It is a service that manages User, Product and comments.
+- One e-mail and one phone number can belong to only one user.
+- It is not possible to register with the same username, phone or e-mail.
+- User type can be a person or an institution.
+
+### ✧In the product controller;
+
+➔Write a service that registers a product.
+
+➔Write a service that can list products.
+
+➔Write a service that finds the product from the product id.
+
+➔Write a method that deletes the product.
+
+➔Write a method that updates the product price. (Price only)
+  
+
+### ✧In the user controller;
+
+➔Write a service that returns all users.
+  
+  ➔Write a service that retrieves the user from the user id.
+  
+  ➔Write a service that retrieves the user from the username.
+  
+  ➔Write a service where the user can be registered.
+  
+  
+  ➔ A project in which a customer can create an order, save their invoices, and view their invoices
+  
+  ![image](https://github.com/oguzhnkurt/BootcampHomeworks/assets/73943292/6be87ec5-840d-4eee-b468-0790885d3d9e)
+
+  
+
+  
+ 
+  
+
+
+  
 
 
 
